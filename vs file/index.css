@@ -1,0 +1,40 @@
+*{
+
+
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+
+
+}
+
+
+body{
+
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+
+h1{
+
+
+  color: red;
+  font-size: 30px;
+  font-weight: bold;  
+
+}
+
+
+
+
+
+#form{
+    color: blue;
+    font-size: 23px;
+}
+
+
+
+
